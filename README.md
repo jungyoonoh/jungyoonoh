@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on Someone who has passion  
 📫 How to reach me : xkakak142@gmail.com  
 
-- 2017.08 ~ 2017.12 Code Club Volunteer  
+- 2017.08 ~ 2017.12 Code Club Education Volunteer  
 - 2019.03 ~ 2019.06 Samsung SDS Coding Campus Education Volunteer   
 - 2019.08 ~ 2019.12 CJ Unit Education Volunteer  
 
