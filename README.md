@@ -1,5 +1,5 @@
 👋 Hi, I’m @jungyoonoh  
-👀 I’m interested in Stock
+👀 I’m interested in Stock  
 🌱 I’m currently learning Computer Science Engineering  
 💞️ I hope to be a developer make a program used to people  
 📫 How to reach me : xkakak142@gmail.com  
