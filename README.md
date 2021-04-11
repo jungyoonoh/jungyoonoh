@@ -1,7 +1,7 @@
 👋 Hi, I’m @jungyoonoh  
-👀 I’m interested in STOCK  
-🌱 I’m currently learning Computer Science Engineering  
-💞️ I’m looking to collaborate on Someone who has passion  
+👀 I’m interested in economy 
+🌱 I’m currently learning Computer Science
+💞️ I hope to be a developer make a program used to people
 📫 How to reach me : xkakak142@gmail.com  
 
 - 2017.08 ~ 2017.12 Code Club Education Volunteer  
