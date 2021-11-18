@@ -1,12 +1,13 @@
+# Introduction    
+    
 👋 Hi, I’m @jungyoonoh  
 👀 I’m interested in Stock  
 🌱 I’m currently learning Computer Science Engineering  
 💞️ I hope to be a developer make a program used to people  
 📫 How to reach me : xkakak142@gmail.com  
-
-- 2017.08 ~ 2017.12 Code Club Education Volunteer  
-- 2019.03 ~ 2019.06 Samsung SDS Coding Campus SW Education Volunteer   
-- 2019.08 ~ 2019.12 CJ OliveNetworks CJ Unit SW Education Volunteer  
+    
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonoh123)](https://solved.ac/yoonoh123)    
+![jungyoonoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonoh123&show_icons=true&theme=dark)
 
 <!---
 jungyoonoh/jungyoonoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
