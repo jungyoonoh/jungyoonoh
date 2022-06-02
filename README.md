@@ -1,6 +1,4 @@
 ## Hi there 👋 
-    
-`I hope to be a BE developer`
 
 ### I’m currently learning 🌱
 <p align="left">
