@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
 </p>
 
-### About Me
-<a href="https://goofy-limburger-3f3.notion.site/Jung-Yoonoh-958f7179a9464d938906cbc5da3ea71a"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<!-- ### About Me -->
+<!-- <a href="https://goofy-limburger-3f3.notion.site/Jung-Yoonoh-958f7179a9464d938906cbc5da3ea71a"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> -->
     
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonoh123)](https://solved.ac/yoonoh123)    
 ![jungyoonoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyoonoh&show_icons=true&theme=dark)
